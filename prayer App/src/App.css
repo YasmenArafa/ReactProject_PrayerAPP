@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&family=Reem+Kufi:wght@400..700&display=swap');
+
+html {
+  direction : rtl;
+  font-family: "Reem Kufi", sans-serif !important;
+  overflow: hidden;
+} 
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: white !important;
+}
+.MuiSvgIcon-root {
+  color: white !important;
+}
+
+
